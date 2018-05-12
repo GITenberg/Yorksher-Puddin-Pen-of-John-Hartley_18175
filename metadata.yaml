@@ -1,0 +1,40 @@
+_repo: Yorksher-Puddin-Pen-of-John-Hartley_18175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, John
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '7408'
+    url: http://www.gutenberg.org/2009/agents/7408
+description: ''
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dialects -- England -- Yorkshire'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+tableOfContents: Frozen to Death -- Pill Jim's Progress Wi' Johns Bunion -- Moravian
+  Knight's Entertainment -- Sperrit Rappin -- Ther's a Mule I' th' Garden -- A Neet
+  at "Widup's Rest" -- Tinklin' Tom -- Th' New Schooil Booard -- Tha Caps me Nah!
+  -- Nay Fer Sewer! -- Th' Battle o' Tawkin -- "Owd Tommy" -- It Mud ha' been War
+  -- Ha a Dead Donkey Towt a Lesson -- One, Two, Three -- Sammy Bewitched -- Hard
+  to Pleeas -- Ratcatchin' -- Owd Moorcock -- Peace Makkin -- Awr Emma-A False Alarm
+  -- Niver Judge by Appearances -- Mi First Testimonial -- Five Paand Nooat -- Silly
+  Billy -- Put up wi' it -- A Queer Dream -- The Mystery of Burt's Babby -- Mak th'
+  best on't -- Mrs Spaiktruth's Pairty -- Why Tommy isn't a Deacon -- One Amang th'
+  Rest -- What's yor Hurry? -- Ha Owd Stooansnatch's Dowter gate Wed -- Th' New Railrooad
+  -- Mose Hart's Twelvth Mess -- Th' Hoil-i'th'-Hill Statty -- Owd Dawdles -- Property
+  Huntin' -- Abraham's Sparrib -- A Run ovver th' Year
+title: "Yorksher Puddin'\r\nA Collection of the Most Popular Dialect Stories from\
+  \ the Pen of John Hartley"
+url: http://www.gutenberg.org/ebooks/18175
